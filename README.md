@@ -13,3 +13,7 @@ Uses Maven for build and dependency management
 Requirements
 Java 17 or higher
 Maven 3.8+
+Setup
+Before building or running the project, review the project onboarding guide:
+
+docs/setup/onboarding.md
